@@ -1,2 +1,3 @@
-# GPU-Parallel-Computing
-Introduction à la programmation GPU PyCuda
+# GPU Parallel Computing
+
+Introduction à la programmation GPU PyCuda.
